@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#define _CRT_SECURE_NO_DEPRECATE
+ 
 #pragma warning(disable : 4996) //If Visual Studio doesn't want to use fopen function
  
 
